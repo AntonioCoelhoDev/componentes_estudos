@@ -1,2 +1,3 @@
-# componentes_estudos
-Redirecionamento para o repositório livre GitLab
+# Estudos de componentes
+### Redirecionamento para o repositório livre GitLab:
+[Componentes e desafios](https://gitlab.com/componentes_estudos)
